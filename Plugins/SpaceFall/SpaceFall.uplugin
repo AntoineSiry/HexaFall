@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpaceFall",
+	"Description": "Minigame for Heaven Land",
+	"Category": "Other",
+	"CreatedBy": "AntoineSiry",
+	"CreatedByURL": "https://www.linkedin.com/in/antoine-siry-332a69208/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
